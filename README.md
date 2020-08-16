@@ -1,5 +1,5 @@
 
-## Tim's Community Chess Tournament
+## Miradil's Chess Game
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white piece.
 
@@ -38,17 +38,3 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 **Notice a problem?**
 
 Raise an [issue](https://github.com/mmzeynalli/mmzeynalli/issues), and include the text _cc @mmzeynalli_.
-
-**Last few moves, this game**
-
-| Move  | Who |
-| ----- | --- |
-|  to  | [@mmzeynalli](https://github.com/mmzeynalli) |
-| G1 to F3 | [@mmzeynalli](https://github.com/mmzeynalli) |
-| D2 to D4 | [@mmzeynalli](https://github.com/mmzeynalli) |
-| D2 to D4 | [@mmzeynalli](https://github.com/mmzeynalli) |
-
-**Top 20 Leaderboard: Most moves across all games, except me.**
-
-| Moves | Who |
-| ----- | --- |
