@@ -436,8 +436,6 @@ jobs:
             Raise an [issue](https://github.com/#{ENV.fetch('REPOSITORY')}/issues), and include the text _cc @mmzeynalli_.
           HTML
 
-          new_readme.concat "| #{CHESS_USER_MOVE[0..1].to_s.upcase} to #{CHESS_USER_MOVE[2..3].to_s.upcase} | [@#{ENV.fetch('EVENT_USER_LOGIN')}](https://github.com/#{ENV.fetch('EVENT_USER_LOGIN')}) |\n"
-
           if issues.present? # just in case, the API is down, or there's no response, don't let that prevent the game rendering
               i = 0
               issues.each do |issue|
