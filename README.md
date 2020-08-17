@@ -52,4 +52,3 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 **Notice a problem?**
 
 Raise an [issue](https://github.com/mmzeynalli/mmzeynalli/issues), and include the text _cc @mmzeynalli_.
-| 1 | [@banowscha](https://github.com/banowscha) |
