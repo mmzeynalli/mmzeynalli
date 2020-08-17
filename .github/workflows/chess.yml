@@ -445,7 +445,7 @@ jobs:
                   to = issue.title&.split('|')&.third.to_s[2..3].to_s.upcase
                   who = issue.user.login
                   i += 1
-                  new_readme.concat "| #{from} to #{to} | [@#{who}](https://github.com/#{who}) |\n"
+                  # new_readme.concat "| #{from} to #{to} | [@#{who}](https://github.com/#{who}) |\n"
                 end
                 break if i >= 4
               end
