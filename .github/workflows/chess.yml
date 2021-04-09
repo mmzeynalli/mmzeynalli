@@ -12,7 +12,7 @@ jobs:
 
     - name: Set env vars
       env:
-        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: true
       run: |
         echo ::set-env name=REPOSITORY::${{ github.repository }}
         echo ::set-env name=EVENT_ISSUE_NUMBER::${{ github.event.issue.number }}
