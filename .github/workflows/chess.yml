@@ -11,13 +11,11 @@ jobs:
     steps:
 
     - name: Set env vars
-      env:
-        ACTIONS_ALLOW_UNSECURE_COMMANDS: true
       run: |
-        echo ::set-env name=REPOSITORY::${{ github.repository }}
-        echo ::set-env name=EVENT_ISSUE_NUMBER::${{ github.event.issue.number }}
-        echo ::set-env name=EVENT_USER_LOGIN::${{ github.event.issue.user.login }}
-
+        echo "REPOSITORY=${{ github.repository }}" >> $GITHUB_ENV
+        echo "EVENT_ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
+        echo "EVENT_USER_LOGIN=${{ github.event.issue.user.login }}" >> $GITHUB_ENV
+        
       # We <3 Ruby, so let's use it + Octokit to ease the
       # scripting and API interactions.
 
@@ -331,9 +329,9 @@ jobs:
                         when 'black_won'
                           'Game won by black with a checkmate.'
                         when 'white_won_resign'
-                          'Game won by white for resign.'
+                          'Game won by white by resign.'
                         when 'black_won_resign'
-                          'Game won by black for resign.'
+                          'Game won by black by resign.'
                         when 'stalemate'
                           'Game was a draw due to stalemate.'
                         when 'insufficient_material'
@@ -476,3 +474,4 @@ jobs:
               error_notification(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'), 'confused', comment_text, e)
               exit(0)
           end
+        EORUBY
