@@ -1,14 +1,14 @@
 
-### 💬 Who am I?
-I am Miradil Zeynalli, the graduate of ADA University, one of the leading universities of Baku, Azerbaijan. Used to work as embedded software engineer in Sumaks Technologies, but currently working as Lead Django Developer at Starex. 
+💬 Who am I?
+I am Miradil Zeynalli, a graduate of ADA University, one of the leading universities in Baku, Azerbaijan. Used to work as an embedded software engineer in Sumaks Technologies, but currently working as Lead Django Developer at Starex.
 
-### 🔭 What else do I do?
-Besides embedded engineering, I am also interested in Data Science and Machine Learning. In my last year of bachelors, I did my Senior Design Project in "Statistical Analysis and Visualization of BP DTS data", where we worked with data of oil wells of British Petroleum. Furthermore, I developed timetable program which uses AI for assigning time slots to courses.
+🔭 What else do I do?
+Besides embedded engineering, I am also interested in Data Science and Machine Learning. In the last year of bachelor's, I did my Senior Design Project in "Statistical Analysis and Visualization of BP DTS data", where we worked with data from oil wells of British Petroleum. Furthermore, I developed a timetable program that uses AI for assigning time slots to courses.
 
-### 🤔 How do I use my time?
-During my leisure time, I prefer to read (I love Dan Brown’ books), watch movies and sometimes read articles about quantum computing. As former professional chess player (and the world champion), I actively play chess on online platforms. Feel free to challenge me! In fact, right here, right now! See below :)
+🤔 How do I use my time?
+During my leisure time, I prefer to read (I love Dan Brown’s books), watch movies, and sometimes read articles about quantum computing. As a former professional chess player (and the world champion), I actively play chess on online platforms. Feel free to challenge me! In fact, right here, right now! See below :)
 
-### ⚡ Fun facts
+⚡ Fun facts
 - Favorite movie: The Dark Knight
 - Favorite actor: Morgan Freeman
 - Favorite author: Dan Brown
