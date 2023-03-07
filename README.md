@@ -1,6 +1,6 @@
 
 💬 Who am I?
-I am Miradil Zeynalli, a graduate of ADA University, one of the leading universities in Baku, Azerbaijan. Used to work as an embedded software engineer in Sumaks Technologies, but currently working as Lead Django Developer at Starex.
+I am Miradil Zeynalli, a graduate of ADA University, one of the leading universities in Baku, Azerbaijan. Currently studying Embedded Electronics Engineering in Lund University, Sweden. Have Embedded Software Engineer experience of 3.5 years, and one year experience as Lead Django Developer.
 
 🔭 What else do I do?
 Besides embedded engineering, I am also interested in Data Science and Machine Learning. In the last year of bachelor's, I did my Senior Design Project in "Statistical Analysis and Visualization of BP DTS data", where we worked with data from oil wells of British Petroleum. Furthermore, I developed a timetable program that uses AI for assigning time slots to courses.
