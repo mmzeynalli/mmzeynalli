@@ -9,7 +9,7 @@ Besides embedded engineering, I am also interested in Data Science and Machine L
 During my leisure time, I prefer to read (I love Dan Brown’s books), watch movies, and sometimes read articles about quantum computing. As a former professional chess player (and the world champion), I actively play chess on online platforms. Feel free to challenge me! In fact, right here, right now! See below :)
 
 ⚡ Fun facts
-- Favorite movie: The Dark Knight
+- Favorite movie: The Dark Knight, Twelve Angry Men
 - Favorite actor: Morgan Freeman
 - Favorite author: Dan Brown
 - Favorite book: The Da Vinci Code
