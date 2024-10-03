@@ -46,8 +46,59 @@ funfact: "I was a world chess champion once!"
 
   <br />
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 683.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 280 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌆 Daytime                486 commits         ████████░░░░░░░░░░░░░░░░░   33.77 % 
+🌃 Evening                519 commits         █████████░░░░░░░░░░░░░░░░   36.07 % 
+🌙 Night                  209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   23 repos            █████████████░░░░░░░░░░░░   51.11 % 
+C                        7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+```
+
+
+
+
+ Last Updated on 03/10/2024 18:50:23 UTC
+<!--END_SECTION:waka-->
 </details>
 
 
