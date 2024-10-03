@@ -110,7 +110,7 @@ def board_to_markdown(board):
         "p": "./img/black/p.png",
 
         "R": "./img/white/r.png",
-        "N": "./img/white/k.png",
+        "N": "./img/white/n.png",
         "B": "./img/white/b.png",
         "Q": "./img/white/q.png",
         "K": "./img/white/k.png",
