@@ -102,21 +102,21 @@ def board_to_markdown(board):
     markdown = ""
 
     images = {
-        "r": "img/black/r.svg",
-        "n": "img/black/n.svg",
-        "b": "img/black/b.svg",
-        "q": "img/black/q.svg",
-        "k": "img/black/k.svg",
-        "p": "img/black/p.svg",
+        "r": "./img/black/r.png",
+        "n": "./img/black/n.png",
+        "b": "./img/black/b.png",
+        "q": "./img/black/q.png",
+        "k": "./img/black/k.png",
+        "p": "./img/black/p.png",
 
-        "R": "img/white/r.svg",
-        "N": "img/white/k.svg",
-        "B": "img/white/b.svg",
-        "Q": "img/white/q.svg",
-        "K": "img/white/k.svg",
-        "P": "img/white/p.svg",
+        "R": "./img/white/r.png",
+        "N": "./img/white/k.png",
+        "B": "./img/white/b.png",
+        "Q": "./img/white/q.png",
+        "K": "./img/white/k.png",
+        "P": "./img/white/p.png",
 
-        ".": "img/blank.png"
+        ".": "./img/blank.png"
     }
 
     # Write header in Markdown format
