@@ -1,0 +1,21 @@
+name: Update chess rating graph
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs every day, at 00:00 UTC
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-ratings-graph:
+    name: Update this repo's README chess rating graph
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Update chart
+        uses: mmzeynalli/chess-rating-chart@v1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LICHESS_USERNAME: mmzeynalli
+          LICHESS_TIME_CLASS: bullet
+          LAST_N_GAMES: 80

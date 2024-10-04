@@ -174,6 +174,10 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 <!-- END LAST MOVES -->
 </details>
 
+<!-- START_RATING_GRAPH:lichess -->
+
+<!-- END_RATING_GRAPH:lichess -->
+
 ### Notice a problem?
 
 Raise an [issue](https://github.com/mmzeynalli/mmzeynalli/issues), and include the text _cc @mmzeynalli_.
