@@ -44,9 +44,7 @@ funfact: "I was a world chess champion once!"
 <details>
   <summary><b>⚡ Coding Stats</b></summary>
 
-  <br />
-  <!--START_SECTION:waka-->
-  
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
