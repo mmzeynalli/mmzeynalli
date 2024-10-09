@@ -35,9 +35,13 @@ architecture:
 funfact: "I was a world chess champion once!"
 ```
 
+## My last 5 blog posts
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+See more [here](https://mmzeynalli.dev/posts/)
 
 ## Dev Stats
 
