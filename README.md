@@ -41,7 +41,7 @@ funfact: "I was a world chess champion once!"
 - [Eolymp 6254: Timebomb](https://mmzeynalli.dev/posts/dsa/eolymp/6254/)
 - [Hackerrank: Winning Lottery Ticket](https://mmzeynalli.dev/posts/dsa/hackerrank/winning-lottery-ticket/)
 - [Leetcode 142: Linked List Cycle II](https://mmzeynalli.dev/posts/dsa/leetcode/142/)
-- [Contest 1918, Problem A](https://mmzeynalli.dev/posts/dsa/codeforces/1918-a/)
+- [Codeforces: Contest 1918, Problem A](https://mmzeynalli.dev/posts/dsa/codeforces/1918-a/)
 - [Hackerrank: Balanced Brackets](https://mmzeynalli.dev/posts/dsa/hackerrank/balanced-brackets/)
 <!-- BLOG-POST-LIST:END -->
 
