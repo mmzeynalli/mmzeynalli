@@ -53,13 +53,15 @@ See more [here](https://mmzeynalli.dev/posts/)
   <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 689.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 335 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -83,14 +85,14 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 6 hrs 58 mins       ███████████░░░░░░░░░░░░░░   42.83 % 
-Python                   5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
-YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Makefile                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Markdown                 7 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.83 % 
+Python                   3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Makefile                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+YAML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-integrify                16 hrs 16 mins      █████████████████████████   100.00 % 
+integrify                14 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +108,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2024 00:41:40 UTC
+ Last Updated on 27/10/2024 00:45:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
