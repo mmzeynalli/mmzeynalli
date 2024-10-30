@@ -49,8 +49,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ## Dev Stats
 
-<details>
-  <summary><b>⚡ Coding Stats</b></summary>
+<summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2052%20mins-blue)
@@ -107,22 +106,14 @@ Java                     2 repos             █░░░░░░░░░░�
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
-
-
-
- Last Updated on 30/10/2024 00:43:03 UTC
+Last Updated on 30/10/2024 00:43:03 UTC
 <!--END_SECTION:waka-->
-</details>
 
+<summary><b> Github Stats</b></summary>
 
-<details>
-  <summary><b> Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmzeynalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmzeynalli&exclude_repo=STM32-Projects,Qistkit-Summer-School-2020&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
-</details>
-
+<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmzeynalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmzeynalli&exclude_repo=STM32-Projects,Qistkit-Summer-School-2020&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
 
 ## Miradil's Chess Game
 
