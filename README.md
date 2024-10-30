@@ -112,8 +112,7 @@ Last Updated on 30/10/2024 00:43:03 UTC
 <summary><b> Github Stats</b></summary>
 
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmzeynalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmzeynalli&exclude_repo=STM32-Projects,Qistkit-Summer-School-2020&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmzeynalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmzeynalli&exclude_repo=STM32-Projects,Qistkit-Summer-School-2020&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
 
 ## Miradil's Chess Game
 
