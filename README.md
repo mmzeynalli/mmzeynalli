@@ -52,9 +52,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2023%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,36 +66,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-🌆 Daytime                595 commits         █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌃 Evening                604 commits         █████████░░░░░░░░░░░░░░░░   36.00 % 
-🌙 Night                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   4 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.44 % 
-YAML                     1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-TOML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-
-🐱‍💻 Projects: 
-integrify                7 hrs 19 mins       ██████████████████░░░░░░░   71.37 % 
-fromfolio-backend-v2     1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-master-thesis            59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-ThesisProjectH7          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-website                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +79,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 00:46:18 UTC
+ Last Updated on 04/11/2024 00:44:42 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
