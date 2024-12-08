@@ -52,7 +52,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -60,7 +60,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 689.1 kB Used in GitHub's Storage 
  > 
-> 🏆 770 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,16 +84,16 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   9 hrs 33 mins       ████████████████████░░░░░   79.79 % 
-Markdown                 1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   12 hrs 26 mins      ████████████████████░░░░░   78.39 % 
+Markdown                 2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-integrify                11 hrs 7 mins       ███████████████████████░░   92.83 % 
-fromfolio-backend-v2     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-fromfolio-frontend-v2    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+integrify                15 hrs 30 mins      ████████████████████████░   97.66 % 
+fromfolio-frontend-v2    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+fromfolio-backend-v2     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2024 00:46:21 UTC
+ Last Updated on 08/12/2024 00:51:45 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
