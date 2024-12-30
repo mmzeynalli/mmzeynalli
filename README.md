@@ -54,7 +54,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,7 +109,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 00:48:29 UTC
+ Last Updated on 30/12/2024 00:45:59 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
