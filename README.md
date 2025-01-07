@@ -54,13 +54,11 @@ See more [here](https://mmzeynalli.dev/posts/)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 689.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,10 +69,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1369 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-🌆 Daytime                3228 commits        █████████░░░░░░░░░░░░░░░░   35.86 % 
-🌃 Evening                3242 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
-🌙 Night                  1163 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+🌞 Morning                1413 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+🌆 Daytime                3307 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌃 Evening                3304 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
+🌙 Night                  1201 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 ```
 
 
@@ -103,7 +101,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 00:46:53 UTC
+ Last Updated on 07/01/2025 00:45:13 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
