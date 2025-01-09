@@ -52,7 +52,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -60,7 +60,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 689.1 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
+> 🏆 24 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,10 +71,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1473 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-🌆 Daytime                3523 commits        █████████░░░░░░░░░░░░░░░░   35.86 % 
-🌃 Evening                3566 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌙 Night                  1263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌞 Morning                1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+🌆 Daytime                3652 commits        █████████░░░░░░░░░░░░░░░░   35.73 % 
+🌃 Evening                3735 commits        █████████░░░░░░░░░░░░░░░░   36.54 % 
+🌙 Night                  1312 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 
 
@@ -84,10 +84,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 33 mins        █████████████████░░░░░░░░   69.59 % 
+TOML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fromfolio-backend-v2     1 hr 59 mins        ██████████████████████░░░   88.94 % 
+fromfolio-frontend-v2    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +108,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 00:46:02 UTC
+ Last Updated on 09/01/2025 00:45:10 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
