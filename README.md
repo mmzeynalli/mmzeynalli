@@ -52,13 +52,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%201%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 689.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 276 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -66,34 +66,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1992 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌆 Daytime                4501 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌃 Evening                4360 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌙 Night                  1681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   13 hrs 34 mins      ███████████████████████░░   90.43 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-🐱‍💻 Projects: 
-integrify                12 hrs 58 mins      ██████████████████████░░░   86.43 % 
-fromfolio-backend-v2     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-fromfolio-frontend-v2    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -107,7 +79,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 00:43:43 UTC
+ Last Updated on 16/02/2025 00:48:08 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
