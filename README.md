@@ -52,13 +52,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 689.4 kB Used in GitHub's Storage 
- > 
-> 🏆 276 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -66,6 +66,34 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2132 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+🌆 Daytime                4830 commits        █████████░░░░░░░░░░░░░░░░   35.88 % 
+🌃 Evening                4696 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌙 Night                  1802 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   12 hrs 2 mins       █████████████████░░░░░░░░   67.22 % 
+Makefile                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+TOML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+
+🐱‍💻 Projects: 
+integrify                15 hrs 7 mins       █████████████████████░░░░   84.38 % 
+fromfolio-backend-v2     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+fromfolio-frontend-v2    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +107,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025 00:48:08 UTC
+ Last Updated on 17/02/2025 00:47:55 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
