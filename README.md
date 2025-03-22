@@ -43,11 +43,11 @@ funfact: "I was a world chess champion once!"
 ## My last 5 blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No. 1 Communication Expert: This Speaking Mistake Makes People Dislike You!](https://mmzeynalli.dev/posts/podcast-notes/the-diary-of-a-ceo/vinh-giang-communication-expert/)
 - [Integrify](https://mmzeynalli.dev/posts/open-sources/integrify/)
 - [Eolymp 6254: Timebomb](https://mmzeynalli.dev/posts/dsa/eolymp/6254/)
 - [Hackerrank: Winning Lottery Ticket](https://mmzeynalli.dev/posts/dsa/hackerrank/winning-lottery-ticket/)
 - [Leetcode 142: Linked List Cycle II](https://mmzeynalli.dev/posts/dsa/leetcode/142/)
-- [Codeforces: Contest 1918, Problem A](https://mmzeynalli.dev/posts/dsa/codeforces/1918-a/)
 <!-- BLOG-POST-LIST:END -->
 
 See more [here](https://mmzeynalli.dev/posts/)
