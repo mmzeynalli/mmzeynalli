@@ -57,9 +57,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,34 +71,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2844 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-🌆 Daytime                6802 commits        ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌃 Evening                7916 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
-🌙 Night                  2683 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   8 hrs 59 mins       █████████████████████░░░░   82.76 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-
-🐱‍💻 Projects: 
-fromfolio-backend-v2     8 hrs 27 mins       ███████████████████░░░░░░   77.82 % 
-baku_lift                2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-backend                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -114,7 +84,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 00:51:22 UTC
+ Last Updated on 22/05/2025 00:51:01 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
