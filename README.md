@@ -57,15 +57,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 686.8 kB Used in GitHub's Storage 
- > 
-> 🏆 861 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -89,16 +87,16 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       ███████████████░░░░░░░░░░   61.51 % 
-TypeScript               1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.98 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   6 hrs 23 mins       ███████████████████░░░░░░   75.83 % 
+TypeScript               1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     3 hrs 16 mins       ███████████████░░░░░░░░░░   61.88 % 
-fromfolio-frontend-v2    2 hrs               █████████░░░░░░░░░░░░░░░░   37.83 % 
-integrify                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+fromfolio-backend-v2     6 hrs 24 mins       ███████████████████░░░░░░   76.08 % 
+fromfolio-frontend-v2    2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+integrify                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +112,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2025 00:51:27 UTC
+ Last Updated on 08/06/2025 00:58:24 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
