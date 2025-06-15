@@ -57,7 +57,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -65,7 +65,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 686.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,117 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -89,15 +89,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   6 hrs 40 mins       ███████████████████░░░░░░   75.33 % 
-TypeScript               1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   5 hrs 34 mins       ██████████████████░░░░░░░   70.35 % 
+TypeScript               1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     6 hrs 58 mins       ████████████████████░░░░░   78.67 % 
-fromfolio-frontend-v2    1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+fromfolio-backend-v2     6 hrs 2 mins        ███████████████████░░░░░░   76.15 % 
+fromfolio-frontend-v2    1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +113,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 00:50:33 UTC
+ Last Updated on 15/06/2025 00:57:59 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
