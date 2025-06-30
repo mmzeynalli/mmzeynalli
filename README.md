@@ -59,7 +59,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -113,7 +113,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2025 00:59:10 UTC
+ Last Updated on 30/06/2025 00:57:23 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
