@@ -57,7 +57,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -65,7 +65,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 686.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,221 Contributions in the Year 2025
+> 🏆 1,223 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -76,10 +76,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1193 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                2800 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-🌃 Evening                3682 commits        ██████████░░░░░░░░░░░░░░░   41.88 % 
-🌙 Night                  1116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌞 Morning                1338 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+🌆 Daytime                3156 commits        ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌃 Evening                4225 commits        ███████████░░░░░░░░░░░░░░   42.34 % 
+🌙 Night                  1260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 ```
 
 
@@ -89,14 +89,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   8 hrs 56 mins       █████████████████████████   99.56 % 
+Python                   8 hrs 48 mins       █████████████████████████   99.55 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     8 hrs 58 mins       █████████████████████████   99.94 % 
-integrify                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+fromfolio-backend-v2     8 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +111,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2025 00:57:51 UTC
+ Last Updated on 08/07/2025 00:53:04 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
