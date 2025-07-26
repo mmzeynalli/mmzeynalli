@@ -57,7 +57,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,7 +65,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 687.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,299 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -89,18 +89,18 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   5 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.92 % 
-Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-YAML                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-TOML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Python                   6 hrs 33 mins       █████████████░░░░░░░░░░░░   53.06 % 
+Markdown                 2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+YAML                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+TOML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
-integrify-docs-python    2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-integrify-epoint-python  1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-integrify-core-python    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-integrify-azericard-pytho1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+fromfolio-backend-v2     4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.71 % 
+integrify-core-python    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+integrify-epoint-python  1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+integrify-docs-python    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+integrify-azericard-pytho1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +116,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 00:56:47 UTC
+ Last Updated on 26/07/2025 00:54:34 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
