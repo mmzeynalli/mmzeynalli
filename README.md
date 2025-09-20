@@ -57,15 +57,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 687.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,673 Contributions in the Year 2025
+> 🏆 1,676 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,35 +71,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2840 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-🌆 Daytime                7111 commits        ████████░░░░░░░░░░░░░░░░░   30.27 % 
-🌃 Evening                10492 commits       ███████████░░░░░░░░░░░░░░   44.67 % 
-🌙 Night                  3047 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
-JavaScript               1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-CSS                      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-HTML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-
-🐱‍💻 Projects: 
-hugo-swiper              2 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.10 % 
-echoo-claude             2 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.26 % 
-fromfolio-backend-v2     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-website-2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -115,7 +84,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 00:50:21 UTC
+ Last Updated on 20/09/2025 00:47:04 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
