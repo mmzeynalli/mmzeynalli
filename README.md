@@ -57,15 +57,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2057%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 687.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,703 Contributions in the Year 2025
+> 🏆 1,704 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,32 +71,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3680 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌆 Daytime                9284 commits        ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-🌃 Evening                14277 commits       ███████████░░░░░░░░░░░░░░   45.46 % 
-🌙 Night                  4165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   5 hrs 36 mins       ████████████████████░░░░░   79.04 % 
-HTML                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-
-🐱‍💻 Projects: 
-fromfolio-backend-v2     7 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -112,7 +84,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 00:47:27 UTC
+ Last Updated on 03/10/2025 00:47:40 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
