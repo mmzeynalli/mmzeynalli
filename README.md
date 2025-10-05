@@ -57,7 +57,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-638%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -65,7 +65,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 687.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,704 Contributions in the Year 2025
+> 🏆 1,707 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,6 +73,33 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3732 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                9403 commits        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌃 Evening                14401 commits       ███████████░░░░░░░░░░░░░░   45.37 % 
+🌙 Night                  4207 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   2 hrs 24 mins       █████████████████████░░░░   85.81 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🐱‍💻 Projects: 
+fromfolio-backend-v2     2 hrs 34 mins       ███████████████████████░░   91.75 % 
+website                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -86,7 +113,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2025 00:44:23 UTC
+ Last Updated on 05/10/2025 00:53:28 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
