@@ -57,13 +57,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 <summary><b>⚡ Coding Stats</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 687.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,897 Contributions in the Year 2025
+> 🏆 1,917 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,6 +73,34 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5974 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+🌆 Daytime                15439 commits       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌃 Evening                23303 commits       ███████████░░░░░░░░░░░░░░   45.03 % 
+🌙 Night                  7036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   8 hrs 27 mins       █████████████████████░░░░   85.65 % 
+Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+HTML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+🐱‍💻 Projects: 
+fromfolio-backend-v2     9 hrs 16 mins       ███████████████████████░░   93.85 % 
+EHR                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+fromfolio-frontend-v2    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -84,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 00:57:51 UTC
+ Last Updated on 17/11/2025 00:55:04 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
