@@ -3,8 +3,12 @@
 
 ```yaml
 experience:
+    Volvo:
+        Period: Dec 2025 - Current
+        Location: Lund, Sweden
+        Position: Consultant, Embedded Engineer
     Axis Communications AB:
-        Period: Oct 2024 - Present
+        Period: Oct 2024 - Apr 2025
         Location: Lund, Sweden
         Department: New Business
         Position: Consultant, Embedded Firmware Engineer
