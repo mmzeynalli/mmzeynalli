@@ -60,6 +60,8 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 <summary><b>⚡ Coding Stats</b></summary>
 
+</br>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%2055%20mins-blue?style=flat)
 
@@ -125,12 +127,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 <summary><b> Github Stats</b></summary>
 
-<br />
-
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmzeynalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmzeynalli&exclude_repo=STM32-Projects,Qistkit-Summer-School-2020&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## Miradil's Chess Game
 
