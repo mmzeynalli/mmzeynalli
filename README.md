@@ -63,6 +63,8 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2046%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -77,6 +79,33 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+🌆 Daytime                19371 commits       ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌃 Evening                27059 commits       ███████████░░░░░░░░░░░░░░   43.38 % 
+🌙 Night                  8425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   5 hrs 28 mins       ████████████████████░░░░░   80.21 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🐱‍💻 Projects: 
+fromfolio-backend-v2     6 hrs 3 mins        ██████████████████████░░░   88.69 % 
+runpod_serverless_client 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -90,7 +119,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 01:13:26 UTC
+ Last Updated on 03/02/2026 01:13:40 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
