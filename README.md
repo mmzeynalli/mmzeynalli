@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -95,14 +95,14 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 17 mins       █████████████████████░░░░   84.89 % 
-HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Python                   3 hrs 25 mins       █████████████████████░░░░   85.34 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     3 hrs 53 mins       █████████████████████████   100.00 % 
+fromfolio-backend-v2     4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 01:13:09 UTC
+ Last Updated on 06/02/2026 01:11:23 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
