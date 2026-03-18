@@ -71,7 +71,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 687.6 kB Used in GitHub's Storage 
  > 
-> 🏆 216 Contributions in the Year 2026
+> 🏆 220 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2292 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-🌆 Daytime                5951 commits        ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌃 Evening                8056 commits        ███████████░░░░░░░░░░░░░░   42.80 % 
-🌙 Night                  2524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+🌞 Morning                2488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌆 Daytime                6489 commits        ████████░░░░░░░░░░░░░░░░░   31.48 % 
+🌃 Evening                8868 commits        ███████████░░░░░░░░░░░░░░   43.03 % 
+🌙 Night                  2765 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 ```
 
 
@@ -95,31 +95,31 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   9 hrs 23 mins       ███████████████████░░░░░░   77.65 % 
-TOML                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   9 hrs 21 mins       ████████████████████░░░░░   79.39 % 
+TOML                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     11 hrs 46 mins      ████████████████████████░   97.33 % 
-fromfolio-frontend-v2    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+fromfolio-backend-v2     11 hrs 43 mins      █████████████████████████   99.57 % 
+fromfolio-frontend-v2    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            █████████████░░░░░░░░░░░░   50.79 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   32 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 17/03/2026 01:11:39 UTC
+ Last Updated on 18/03/2026 01:15:46 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
