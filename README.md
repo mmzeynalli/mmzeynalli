@@ -82,10 +82,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3322 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-🌆 Daytime                8601 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌃 Evening                11539 commits       ███████████░░░░░░░░░░░░░░   42.71 % 
-🌙 Night                  3553 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌞 Morning                3760 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+🌆 Daytime                9801 commits        ████████░░░░░░░░░░░░░░░░░   31.32 % 
+🌃 Evening                13579 commits       ███████████░░░░░░░░░░░░░░   43.39 % 
+🌙 Night                  4156 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 
 
@@ -95,34 +95,34 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   8 hrs 9 mins        █████████████████░░░░░░░░   66.35 % 
-Other                    1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Caddyfile                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-TOML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Python                   5 hrs 24 mins       ████████████████░░░░░░░░░   63.15 % 
+Other                    1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Caddyfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🐱‍💻 Projects: 
-sqladmin                 6 hrs 58 mins       ██████████████░░░░░░░░░░░   56.71 % 
-sqladmin-test            4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-fromfolio-backend-v2     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-hp_integration_test_libra25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-js                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+sqladmin                 5 hrs 13 mins       ███████████████░░░░░░░░░░   60.91 % 
+sqladmin-test            2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
+fromfolio-backend-v2     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+hp_integration_test_libra7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+js                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   32 repos            █████████████░░░░░░░░░░░░   50.79 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 21/04/2026 01:27:54 UTC
+ Last Updated on 22/04/2026 01:28:22 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
