@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -71,7 +71,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 695.4 kB Used in GitHub's Storage 
  > 
-> 🏆 311 Contributions in the Year 2026
+> 🏆 313 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3468 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-🌆 Daytime                9001 commits        ████████░░░░░░░░░░░░░░░░░   31.65 % 
-🌃 Evening                12219 commits       ███████████░░░░░░░░░░░░░░   42.96 % 
-🌙 Night                  3754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+🌞 Morning                3616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+🌆 Daytime                9401 commits        ████████░░░░░░░░░░░░░░░░░   31.47 % 
+🌃 Evening                12900 commits       ███████████░░░░░░░░░░░░░░   43.18 % 
+🌙 Night                  3955 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 
 
@@ -95,34 +95,34 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       ████████████████░░░░░░░░░   63.60 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-JSON with Comments       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Python                   4 hrs 29 mins       ██████████████████░░░░░░░   72.92 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JSON with Comments       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🐱‍💻 Projects: 
-sqladmin                 2 hrs 10 mins       ██████████████░░░░░░░░░░░   57.62 % 
-sqladmin-test            55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-fromfolio-backend-v2     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-hp_integration_test_libra5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-js                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+sqladmin-test            2 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.88 % 
+sqladmin                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
+fromfolio-backend-v2     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+hp_integration_test_libra16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+js                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            █████████████░░░░░░░░░░░░   50.79 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   32 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 23/04/2026 01:31:16 UTC
+ Last Updated on 24/04/2026 01:31:23 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
