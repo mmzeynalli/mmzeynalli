@@ -65,7 +65,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,10 +82,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4376 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-🌆 Daytime                11428 commits       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌃 Evening                16362 commits       ███████████░░░░░░░░░░░░░░   44.05 % 
-🌙 Night                  4981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+🌞 Morning                4437 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+🌆 Daytime                11574 commits       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+🌃 Evening                16507 commits       ███████████░░░░░░░░░░░░░░   43.96 % 
+🌙 Night                  5035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
 
 
@@ -95,33 +95,33 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ████████████████████░░░░░   79.50 % 
-HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Python                   2 hrs 38 mins       ███████████████████░░░░░░   77.97 % 
+HTML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-tbff-admin               1 hr 51 mins        █████████████░░░░░░░░░░░░   50.30 % 
-sqladmin-test            1 hr 38 mins        ███████████░░░░░░░░░░░░░░   44.60 % 
-fromfolio-backend-v2     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-sqladmin                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+tbff-admin               1 hr 51 mins        ██████████████░░░░░░░░░░░   54.47 % 
+sqladmin-test            1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   40.16 % 
+fromfolio-backend-v2     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+sqladmin                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            █████████████░░░░░░░░░░░░   51.56 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   32 repos            █████████████░░░░░░░░░░░░   50.79 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 01/05/2026 01:59:32 UTC
+ Last Updated on 02/05/2026 01:37:07 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
