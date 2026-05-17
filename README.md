@@ -63,15 +63,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 695.5 kB Used in GitHub's Storage 
+> 📦 695.7 kB Used in GitHub's Storage 
  > 
-> 🏆 366 Contributions in the Year 2026
+> 🏆 354 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4735 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌆 Daytime                12391 commits       ████████░░░░░░░░░░░░░░░░░   30.62 % 
-🌃 Evening                17891 commits       ███████████░░░░░░░░░░░░░░   44.21 % 
-🌙 Night                  5447 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+🌞 Morning                4733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌆 Daytime                12391 commits       ████████░░░░░░░░░░░░░░░░░   30.63 % 
+🌃 Evening                17891 commits       ███████████░░░░░░░░░░░░░░   44.23 % 
+🌙 Night                  5436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 ```
 
 
@@ -95,33 +95,33 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   7 hrs 4 mins        ███████████████████████░░   93.46 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   8 hrs 6 mins        ███████████████████████░░   93.25 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
-tbff-admin               2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-sqladmin                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-portfolios_feed_recommend33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+fromfolio-backend-v2     4 hrs 21 mins       █████████████░░░░░░░░░░░░   50.17 % 
+tbff-admin               2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
+sqladmin                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+portfolios_feed_recommend33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            █████████████░░░░░░░░░░░░   51.56 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   32 repos            █████████████░░░░░░░░░░░░   50.79 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 16/05/2026 01:57:44 UTC
+ Last Updated on 17/05/2026 02:00:23 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
