@@ -63,15 +63,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2038%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 695.7 kB Used in GitHub's Storage 
  > 
-> 🏆 354 Contributions in the Year 2026
+> 🏆 355 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,35 +77,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌆 Daytime                12391 commits       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-🌃 Evening                17891 commits       ███████████░░░░░░░░░░░░░░   44.23 % 
-🌙 Night                  5436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   8 hrs 6 mins        ███████████████████████░░   93.25 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-🐱‍💻 Projects: 
-fromfolio-backend-v2     4 hrs 21 mins       █████████████░░░░░░░░░░░░   50.17 % 
-tbff-admin               2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
-sqladmin                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-portfolios_feed_recommend33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -121,7 +90,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 02:00:23 UTC
+ Last Updated on 18/05/2026 02:13:30 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
