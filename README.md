@@ -63,13 +63,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%201%20min-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 695.7 kB Used in GitHub's Storage 
+> 📦 695.8 kB Used in GitHub's Storage 
  > 
-> 🏆 388 Contributions in the Year 2026
+> 🏆 389 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -80,10 +82,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5492 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-🌆 Daytime                14416 commits       ████████░░░░░░░░░░░░░░░░░   30.21 % 
-🌃 Evening                21346 commits       ███████████░░░░░░░░░░░░░░   44.73 % 
-🌙 Night                  6466 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+🌞 Morning                5644 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌆 Daytime                14822 commits       ████████░░░░░░░░░░░░░░░░░   30.14 % 
+🌃 Evening                22039 commits       ███████████░░░░░░░░░░░░░░   44.82 % 
+🌙 Night                  6672 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 ```
 
 
@@ -120,7 +122,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 02:14:24 UTC
+ Last Updated on 23/05/2026 02:03:39 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
