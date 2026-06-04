@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Miradil Zeynalli's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 61, Total Commits  : 885, Total PRs: 82, Total Issues: 106, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 58, Total Commits  : 885, Total PRs: 76, Total Issues: 106, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.30502274829439;
+        stroke-dashoffset: 87.1018439684721;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >61</text>
+      >58</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >82</text>
+      >76</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
