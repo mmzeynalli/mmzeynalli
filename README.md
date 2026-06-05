@@ -63,15 +63,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C032%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 696.7 kB Used in GitHub's Storage 
+> 📦 696.8 kB Used in GitHub's Storage 
  > 
-> 🏆 458 Contributions in the Year 2026
+> 🏆 471 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,36 +79,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7088 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-🌆 Daytime                18592 commits       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-🌃 Evening                28243 commits       ███████████░░░░░░░░░░░░░░   45.26 % 
-🌙 Night                  8480 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-TypeScript               5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Markdown                 3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-
-🐱‍💻 Projects: 
-puzzle-arena             12 hrs 26 mins      ████████████████░░░░░░░░░   63.21 % 
-fromfolio-backend-v2     3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-sqladmin                 2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-sqladmin-test            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -122,7 +92,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2026 02:42:43 UTC
+ Last Updated on 05/06/2026 02:14:50 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
