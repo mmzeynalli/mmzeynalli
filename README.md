@@ -63,15 +63,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 696.8 kB Used in GitHub's Storage 
  > 
-> 🏆 471 Contributions in the Year 2026
+> 🏆 489 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,20 +79,50 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6940 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                18180 commits       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌃 Evening                27583 commits       ███████████░░░░░░░░░░░░░░   45.20 % 
+🌙 Night                  8315 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               7 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
+Python                   5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Markdown                 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Other                    2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+
+🐱‍💻 Projects: 
+puzzle-arena             16 hrs 56 mins      █████████████████░░░░░░░░   69.90 % 
+fromfolio-backend-v2     4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+sqladmin                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+hal-vehicle-data-control 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+sqladmin-test            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   33 repos            █████████████░░░░░░░░░░░░   50.77 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
 
 
- Last Updated on 05/06/2026 02:14:50 UTC
+ Last Updated on 06/06/2026 02:06:47 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
