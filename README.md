@@ -69,7 +69,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 698.6 kB Used in GitHub's Storage 
  > 
-> 🏆 692 Contributions in the Year 2026
+> 🏆 697 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -77,36 +77,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-🌆 Daytime                25104 commits       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-🌃 Evening                38832 commits       ███████████░░░░░░░░░░░░░░   45.57 % 
-🌙 Night                  11790 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.44 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Text                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-
-🐱‍💻 Projects: 
-fromfolio-backend-v2     2 hrs 53 mins       ██████████████░░░░░░░░░░░   55.90 % 
-puzzle-arena             1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
-sqladmin                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-dicechess-bot            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-udg-phd-thesis           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +90,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:41:40 UTC
+ Last Updated on 25/07/2026 01:40:02 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
