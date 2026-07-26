@@ -63,13 +63,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2044%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 698.6 kB Used in GitHub's Storage 
  > 
-> 🏆 697 Contributions in the Year 2026
+> 🏆 699 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -77,6 +79,36 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9734 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+🌆 Daytime                25700 commits       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+🌃 Evening                39738 commits       ███████████░░░░░░░░░░░░░░   45.55 % 
+🌙 Night                  12075 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   2 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.48 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Text                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+
+🐱‍💻 Projects: 
+fromfolio-backend-v2     2 hrs 33 mins       █████████████░░░░░░░░░░░░   50.79 % 
+puzzle-arena             1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+sqladmin                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+dicechess-bot            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+udg-phd-thesis           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -90,7 +122,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:40:02 UTC
+ Last Updated on 26/07/2026 01:42:31 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
