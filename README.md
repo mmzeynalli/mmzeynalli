@@ -63,13 +63,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2031%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2039%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 698.7 kB Used in GitHub's Storage 
+> 📦 698.8 kB Used in GitHub's Storage 
  > 
-> 🏆 747 Contributions in the Year 2026
+> 🏆 748 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -81,8 +85,8 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ```text
 🌞 Morning                3821 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-🌆 Daytime                9623 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌃 Evening                12182 commits       ██████████░░░░░░░░░░░░░░░   41.21 % 
+🌆 Daytime                9624 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % 
+🌃 Evening                12185 commits       ██████████░░░░░░░░░░░░░░░   41.22 % 
 🌙 Night                  3932 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 
@@ -93,24 +97,40 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 58 mins       ███████████████░░░░░░░░░░   60.84 % 
-Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-TypeScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Python                   3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.31 % 
+Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     5 hrs 1 min         ███████████████████░░░░░░   76.83 % 
-puzzle-arena             41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-sqladmin                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-fromfolio-frontend-v2    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-udg-phd-thesis           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+fromfolio-backend-v2     4 hrs 4 mins        ███████████████░░░░░░░░░░   60.03 % 
+sqladmin                 1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+puzzle-arena             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+sqladmin-test            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+fromfolio-frontend-v2    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 24 mins (6.13%)
+
+✍️ 124 lines written by AI, 856 lines written by hand (12.65% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Grok                     124 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 12.65% of written lines came from AI
+📄 Detailed Prompter — average 663 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 93.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 01:30:32 UTC
+ Last Updated on 30/07/2026 01:23:19 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
