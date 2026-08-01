@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2039%20mins-blue?style=flat)
 
@@ -73,7 +73,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 698.8 kB Used in GitHub's Storage 
  > 
-> 🏆 755 Contributions in the Year 2026
+> 🏆 760 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3821 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-🌆 Daytime                9629 commits        ████████░░░░░░░░░░░░░░░░░   32.57 % 
-🌃 Evening                12186 commits       ██████████░░░░░░░░░░░░░░░   41.21 % 
-🌙 Night                  3932 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+🌞 Morning                4510 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+🌆 Daytime                11491 commits       ████████░░░░░░░░░░░░░░░░░   31.81 % 
+🌃 Evening                15244 commits       ███████████░░░░░░░░░░░░░░   42.20 % 
+🌙 Night                  4876 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
 
 
@@ -97,26 +97,26 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 21 mins       ██████████████░░░░░░░░░░░   56.87 % 
-Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Python                   5 hrs 15 mins       █████████████████░░░░░░░░   67.99 % 
+Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     3 hrs 32 mins       ███████████████░░░░░░░░░░   60.21 % 
-sqladmin                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-sqladmin-test            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-fromfolio-frontend-v2    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-terminals                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+fromfolio-backend-v2     5 hrs 20 mins       █████████████████░░░░░░░░   69.08 % 
+sqladmin                 1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+sqladmin-test            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+fromfolio-frontend-v2    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+terminals                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (7.07%)
+⏱ AI Coding Time: 24 mins (5.39%)
 
-✍️ 124 lines written by AI, 817 lines written by hand (13.18% AI-written)
+✍️ 124 lines written by AI, 1,864 lines written by hand (6.24% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -127,10 +127,10 @@ terminals                9 mins              █░░░░░░░░░░�
 Grok                     124 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.18% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 6.24% of written lines came from AI
 📄 Detailed Prompter — average 663 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 93.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 01:37:08 UTC
+ Last Updated on 01/08/2026 01:40:30 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
