@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2039%20mins-blue?style=flat)
 
@@ -97,15 +97,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   5 hrs 18 mins       █████████████████░░░░░░░░   68.39 % 
+Python                   5 hrs 26 mins       ██████████████████░░░░░░░   70.15 % 
 Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     5 hrs 27 mins       ██████████████████░░░░░░░   70.19 % 
-sqladmin                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+fromfolio-backend-v2     5 hrs 23 mins       █████████████████░░░░░░░░   69.38 % 
+sqladmin                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 sqladmin-test            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 fromfolio-frontend-v2    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 terminals                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
@@ -116,7 +116,7 @@ terminals                9 mins              █░░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 24 mins (5.36%)
 
-✍️ 124 lines written by AI, 1,827 lines written by hand (6.36% AI-written)
+✍️ 124 lines written by AI, 1,852 lines written by hand (6.28% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -127,10 +127,10 @@ terminals                9 mins              █░░░░░░░░░░�
 Grok                     124 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.36% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 6.28% of written lines came from AI
 📄 Detailed Prompter — average 663 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 95.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 01:37:37 UTC
+ Last Updated on 03/08/2026 01:38:11 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
