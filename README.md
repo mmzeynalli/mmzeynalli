@@ -84,7 +84,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4515 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+🌞 Morning                4516 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 🌆 Daytime                11512 commits       ████████░░░░░░░░░░░░░░░░░   31.79 % 
 🌃 Evening                15269 commits       ███████████░░░░░░░░░░░░░░   42.17 % 
 🌙 Night                  4911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
@@ -97,26 +97,26 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       ██████████████████░░░░░░░   70.15 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Python                   3 hrs 52 mins       ███████████████████░░░░░░   74.07 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     5 hrs 23 mins       █████████████████░░░░░░░░   69.38 % 
-sqladmin                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-sqladmin-test            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-fromfolio-frontend-v2    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-terminals                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+fromfolio-backend-v2     2 hrs 58 mins       ██████████████░░░░░░░░░░░   56.89 % 
+sqladmin                 1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+sqladmin-test            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+terminals                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+fromfolio-frontend-v2    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (5.36%)
+⏱ AI Coding Time: 24 mins (7.94%)
 
-✍️ 124 lines written by AI, 1,852 lines written by hand (6.28% AI-written)
+✍️ 124 lines written by AI, 1,227 lines written by hand (9.18% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -127,10 +127,10 @@ terminals                9 mins              █░░░░░░░░░░�
 Grok                     124 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.28% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.18% of written lines came from AI
 📄 Detailed Prompter — average 663 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 95.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 01:38:11 UTC
+ Last Updated on 04/08/2026 01:27:29 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
