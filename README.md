@@ -63,17 +63,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2013%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2039%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 698.8 kB Used in GitHub's Storage 
  > 
-> 🏆 767 Contributions in the Year 2026
+> 🏆 775 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -81,42 +77,6 @@ See more [here](https://mmzeynalli.dev/posts/)
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5200 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-🌆 Daytime                13370 commits       ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌃 Evening                18328 commits       ███████████░░░░░░░░░░░░░░   42.87 % 
-🌙 Night                  5857 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   3 hrs 6 mins        █████████████████████░░░░   83.34 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-
-🐱‍💻 Projects: 
-fromfolio-backend-v2     2 hrs 51 mins       ███████████████████░░░░░░   76.60 % 
-sqladmin                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-puzzle-arena             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-fromfolio-frontend-v2    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-udg-phd-thesis           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -130,7 +90,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:27:45 UTC
+ Last Updated on 07/08/2026 02:09:57 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
