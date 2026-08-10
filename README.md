@@ -63,11 +63,11 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -85,9 +85,9 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ```text
 🌞 Morning                5537 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-🌆 Daytime                14309 commits       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌃 Evening                19868 commits       ███████████░░░░░░░░░░░░░░   43.20 % 
-🌙 Night                  6278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+🌆 Daytime                14312 commits       ████████░░░░░░░░░░░░░░░░░   31.11 % 
+🌃 Evening                19875 commits       ███████████░░░░░░░░░░░░░░   43.20 % 
+🌙 Night                  6281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 ```
 
 
@@ -97,24 +97,25 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 20 mins        ████████████████████████░   94.08 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   2 hrs 8 mins        ███████████████████████░░   91.95 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     58 mins             █████████████████░░░░░░░░   68.67 % 
-sqladmin                 26 mins             ████████░░░░░░░░░░░░░░░░░   31.33 % 
+fromfolio-backend-v2     1 hr 49 mins        ████████████████████░░░░░   78.80 % 
+sqladmin                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+integrify-core-python    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 super                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (37.6%)
+⏱ AI Coding Time: 32 mins (23.15%)
 
-✍️ 0 lines written by AI, 66 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 199 lines written by hand (0.0% AI-written)
 
 🔤 23,358 Input Tokens, 23,358 Output Tokens
 
@@ -144,7 +145,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 00:54:16 UTC
+ Last Updated on 10/08/2026 00:57:18 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
