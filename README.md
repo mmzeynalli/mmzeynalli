@@ -63,17 +63,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 698.0 kB Used in GitHub's Storage 
+> 📦 698.4 kB Used in GitHub's Storage 
  > 
-> 🏆 909 Contributions in the Year 2026
+> 🏆 915 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,9 +84,9 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌆 Daytime                15196 commits       ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌃 Evening                21729 commits       ███████████░░░░░░░░░░░░░░   43.71 % 
+🌞 Morning                5824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+🌆 Daytime                15199 commits       ████████░░░░░░░░░░░░░░░░░   30.57 % 
+🌃 Evening                21732 commits       ███████████░░░░░░░░░░░░░░   43.71 % 
 🌙 Night                  6964 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
@@ -97,40 +97,43 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 5 mins        █████████████░░░░░░░░░░░░   50.01 % 
-Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   51.46 % 
+Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-integrify-python         3 hrs 9 mins        █████████████░░░░░░░░░░░░   51.03 % 
-tbff-admin               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-sqladmin                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-sqladmin-test            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-super                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+integrify-python         3 hrs 9 mins        █████████████░░░░░░░░░░░░   53.21 % 
+tbff-admin               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+super                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+puzzle-arena             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+integrify-php            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (31.03%)
+⏱ AI Coding Time: 2 hrs 22 mins (39.99%)
 
-✍️ 411 lines written by AI, 464 lines written by hand (46.97% AI-written)
+✍️ 739 lines written by AI, 434 lines written by hand (63.0% AI-written)
 
-🔤 99,813 Input Tokens, 2,007 Output Tokens
+🔤 106,821 Input Tokens, 9,015 Output Tokens
 
-💵 $0.33 Estimated AI Cost This Week
+💵 $0.45 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 25 AI Prompts
+🧠 13 AI Sessions, 71 AI Prompts
 
-Github-Copilot           429 lines           █████████████████████████   100.00 % 
+Github-Copilot           429 lines           ██████████████░░░░░░░░░░░   54.51 % 
+Grok                     358 lines           ███████████░░░░░░░░░░░░░░   45.49 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.97% of written lines came from AI
-📄 Detailed Prompter — average 821 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 72.29% of changed lines were hand-edited
+⚖️ Balanced with AI — 63.0% of written lines came from AI
+📄 Detailed Prompter — average 992 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 57.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +149,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 00:43:45 UTC
+ Last Updated on 25/08/2026 00:43:48 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
