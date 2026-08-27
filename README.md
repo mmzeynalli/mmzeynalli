@@ -65,7 +65,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -73,7 +73,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 698.5 kB Used in GitHub's Storage 
  > 
-> 🏆 919 Contributions in the Year 2026
+> 🏆 918 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -97,43 +97,43 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 44 mins        █████████████░░░░░░░░░░░░   50.06 % 
-Markdown                 46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Python                   1 hr 20 mins        ██████████████░░░░░░░░░░░   55.47 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Docker                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🐱‍💻 Projects: 
-tbff-admin               1 hr 32 mins        ███████████░░░░░░░░░░░░░░   44.59 % 
-integrify-python         35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-super                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-puzzle-arena             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-fromfolio-vacancy-embeddi15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+tbff-admin               1 hr 32 mins        ████████████████░░░░░░░░░   64.13 % 
+super                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+puzzle-arena             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+integrify-python         9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (55.87%)
+⏱ AI Coding Time: 1 hr 52 mins (77.46%)
 
-✍️ 579 lines written by AI, 88 lines written by hand (86.81% AI-written)
+✍️ 577 lines written by AI, 34 lines written by hand (94.44% AI-written)
 
-🔤 244,107 Input Tokens, 146,301 Output Tokens
+🔤 197,605 Input Tokens, 146,103 Output Tokens
 
-💵 $1.46 Estimated AI Cost This Week
+💵 $1.31 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 80 AI Prompts
+🧠 16 AI Sessions, 79 AI Prompts
 
-Grok                     627 lines           █████████████████████████   98.58 % 
-Github-Copilot           9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Grok                     627 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.81% of written lines came from AI
-📚 Verbose Prompter — average 7,743 characters per prompt
+🤖 AI-Driven — 94.44% of written lines came from AI
+📚 Verbose Prompter — average 7,745 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 20.8% of changed lines were hand-edited
+🚀 High AI Trust — 11.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +149,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 00:45:01 UTC
+ Last Updated on 27/08/2026 05:36:30 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
