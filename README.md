@@ -67,13 +67,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 698.5 kB Used in GitHub's Storage 
+> 📦 698.6 kB Used in GitHub's Storage 
  > 
-> 🏆 918 Contributions in the Year 2026
+> 🏆 923 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,9 +85,9 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ```text
 🌞 Morning                5824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌆 Daytime                15203 commits       ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌃 Evening                21732 commits       ███████████░░░░░░░░░░░░░░   43.71 % 
-🌙 Night                  6964 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                15203 commits       ████████░░░░░░░░░░░░░░░░░   30.57 % 
+🌃 Evening                21736 commits       ███████████░░░░░░░░░░░░░░   43.71 % 
+🌙 Night                  6965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
 
@@ -97,43 +97,40 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 20 mins        ██████████████░░░░░░░░░░░   55.47 % 
-Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Docker                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python                   1 hr 19 mins        █████████████████░░░░░░░░   69.26 % 
+Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Docker                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🐱‍💻 Projects: 
-tbff-admin               1 hr 32 mins        ████████████████░░░░░░░░░   64.13 % 
-super                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-puzzle-arena             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-integrify-python         9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+tbff-admin               1 hr 32 mins        ████████████████████░░░░░   81.17 % 
+puzzle-arena             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (77.46%)
+⏱ AI Coding Time: 1 hr 32 mins (81.15%)
 
-✍️ 577 lines written by AI, 34 lines written by hand (94.44% AI-written)
+✍️ 577 lines written by AI, 3 lines written by hand (99.48% AI-written)
 
-🔤 197,605 Input Tokens, 146,103 Output Tokens
+🔤 144,859 Input Tokens, 144,859 Output Tokens
 
-💵 $1.31 Estimated AI Cost This Week
+💵 $1.13 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 79 AI Prompts
+🧠 15 AI Sessions, 75 AI Prompts
 
 Grok                     627 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.44% of written lines came from AI
-📚 Verbose Prompter — average 7,745 characters per prompt
+🤖 AI-Driven — 99.48% of written lines came from AI
+📚 Verbose Prompter — average 8,133 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 05:36:30 UTC
+ Last Updated on 28/08/2026 07:34:50 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
