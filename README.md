@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌆 Daytime                15203 commits       ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌃 Evening                21736 commits       ███████████░░░░░░░░░░░░░░   43.71 % 
-🌙 Night                  6965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌞 Morning                5995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+🌆 Daytime                15668 commits       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+🌃 Evening                22502 commits       ███████████░░░░░░░░░░░░░░   43.81 % 
+🌙 Night                  7202 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
 
@@ -97,40 +97,40 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        █████████████████░░░░░░░░   69.26 % 
-Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Docker                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Python                   38 mins             █████████████░░░░░░░░░░░░   52.34 % 
+Git Config               13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Docker                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+XML                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🐱‍💻 Projects: 
-tbff-admin               1 hr 32 mins        ████████████████████░░░░░   81.17 % 
-puzzle-arena             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+tbff-admin               52 mins             ██████████████████░░░░░░░   70.80 % 
+puzzle-arena             14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (81.15%)
+⏱ AI Coding Time: 56 mins (76.23%)
 
-✍️ 577 lines written by AI, 3 lines written by hand (99.48% AI-written)
+✍️ 577 lines written by AI, 2 lines written by hand (99.65% AI-written)
 
 🔤 144,859 Input Tokens, 144,859 Output Tokens
 
 💵 $1.13 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 75 AI Prompts
+🧠 14 AI Sessions, 67 AI Prompts
 
 Grok                     627 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📚 Verbose Prompter — average 8,133 characters per prompt
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 8,982 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.79% of changed lines were hand-edited
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 07:34:50 UTC
+ Last Updated on 29/08/2026 04:46:14 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
