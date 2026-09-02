@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-🌆 Daytime                15874 commits       ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌃 Evening                22721 commits       ███████████░░░░░░░░░░░░░░   43.77 % 
-🌙 Night                  7306 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌞 Morning                6562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+🌆 Daytime                17289 commits       ████████░░░░░░░░░░░░░░░░░   30.36 % 
+🌃 Evening                25044 commits       ███████████░░░░░░░░░░░░░░   43.98 % 
+🌙 Night                  8052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 ```
 
 
@@ -97,39 +97,33 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   15 mins             ███████████████░░░░░░░░░░   58.13 % 
-YAML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Git Config               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tbff-admin               22 mins             ██████████████████████░░░   86.13 % 
-Unknown Project          3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Unknown Project          1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 249 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 138,919 Input Tokens, 138,919 Output Tokens
+🔤 1,633 Input Tokens, 1,633 Output Tokens
 
-💵 $1.13 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 27 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-Grok                     269 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 20,599 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 595 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +139,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 02:31:14 UTC
+ Last Updated on 02/09/2026 01:54:37 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
