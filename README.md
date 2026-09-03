@@ -63,17 +63,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 698.7 kB Used in GitHub's Storage 
+> 📦 699.7 kB Used in GitHub's Storage 
  > 
-> 🏆 909 Contributions in the Year 2026
+> 🏆 913 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-🌆 Daytime                17289 commits       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌃 Evening                25044 commits       ███████████░░░░░░░░░░░░░░   43.98 % 
-🌙 Night                  8052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+🌞 Morning                7075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+🌆 Daytime                18686 commits       ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌃 Evening                27343 commits       ███████████░░░░░░░░░░░░░░   44.20 % 
+🌙 Night                  8763 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
 
@@ -97,33 +97,40 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Python                   2 hrs 15 mins       █████████████████████░░░░   85.60 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.00 % 
+tbff-admin               2 hrs 24 mins       ███████████████████████░░   91.50 % 
+super                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (100.0%)
+⏱ AI Coding Time: 2 hrs 6 mins (80.15%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 1,974 lines written by AI, 35 lines written by hand (98.26% AI-written)
 
-🔤 1,633 Input Tokens, 1,633 Output Tokens
+🔤 20,287 Input Tokens, 20,287 Output Tokens
 
-💵 $0.02 Estimated AI Cost This Week
+💵 $0.32 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 4 AI Sessions, 31 AI Prompts
 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     2,053 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 595 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 98.26% of written lines came from AI
+📚 Verbose Prompter — average 3,043 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -139,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 01:54:37 UTC
+ Last Updated on 03/09/2026 02:00:28 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
