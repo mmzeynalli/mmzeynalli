@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C132%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2015%20mins-blue?style=flat)
 
@@ -71,9 +71,9 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 **🐱 My GitHub Data** 
 
-> 📦 700.1 kB Used in GitHub's Storage 
+> 📦 700.3 kB Used in GitHub's Storage 
  > 
-> 🏆 917 Contributions in the Year 2026
+> 🏆 922 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                18836 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌃 Evening                27491 commits       ███████████░░░░░░░░░░░░░░   44.15 % 
-🌙 Night                  8809 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌞 Morning                7319 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+🌆 Daytime                19306 commits       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌃 Evening                28262 commits       ███████████░░░░░░░░░░░░░░   44.20 % 
+🌙 Night                  9053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
 
@@ -97,26 +97,26 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs               ███████████████████░░░░░░   75.33 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Python                   3 hrs 6 mins        ██████████████░░░░░░░░░░░   57.97 % 
+Bash                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🐱‍💻 Projects: 
-tbff-admin               3 hrs 15 mins       ████████████████████░░░░░   81.47 % 
-super                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-mzeynall                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-udg-phd-thesis           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+tbff-admin               3 hrs 15 mins       ███████████████░░░░░░░░░░   60.60 % 
+udg-phd-thesis           1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+fromfolio-backend-v2     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+super                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+mzeynall                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (77.83%)
+⏱ AI Coding Time: 3 hrs 6 mins (57.89%)
 
-✍️ 2,146 lines written by AI, 66 lines written by hand (97.02% AI-written)
+✍️ 2,146 lines written by AI, 183 lines written by hand (92.14% AI-written)
 
 🔤 214,077 Input Tokens, 52,564 Output Tokens
 
@@ -130,10 +130,10 @@ Composer                 0 lines             ░░░░░░░░░░░�
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.02% of written lines came from AI
+🤖 AI-Driven — 92.14% of written lines came from AI
 📚 Verbose Prompter — average 4,389 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.4% of changed lines were hand-edited
+🚀 High AI Trust — 11.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +149,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 01:53:20 UTC
+ Last Updated on 06/09/2026 01:48:03 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
