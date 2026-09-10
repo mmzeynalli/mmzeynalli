@@ -63,17 +63,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2050%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2015%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 700.6 kB Used in GitHub's Storage 
  > 
-> 🏆 922 Contributions in the Year 2026
+> 🏆 923 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +82,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 ```text
 🌞 Morning                7328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 🌆 Daytime                19310 commits       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-🌃 Evening                28267 commits       ███████████░░░░░░░░░░░░░░   44.19 % 
+🌃 Evening                28268 commits       ███████████░░░░░░░░░░░░░░   44.19 % 
 🌙 Night                  9060 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
@@ -97,43 +93,41 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.91 % 
-Bash                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-YAML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Bash                     1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+YAML                     1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Python                   1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-tbff-admin               3 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.13 % 
-udg-phd-thesis           1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-fromfolio-backend-v2     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-sqladmin                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-super                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+udg-phd-thesis           1 hr 49 mins        ███████████░░░░░░░░░░░░░░   45.46 % 
+tbff-admin               53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+fromfolio-backend-v2     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+sqladmin                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+sqladmin-test            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (45.98%)
+⏱ AI Coding Time: 52 mins (21.76%)
 
-✍️ 2,146 lines written by AI, 238 lines written by hand (90.02% AI-written)
+✍️ 121 lines written by AI, 206 lines written by hand (37.0% AI-written)
 
-🔤 214,077 Input Tokens, 52,564 Output Tokens
+🔤 31,438 Input Tokens, 31,438 Output Tokens
 
-💵 $1.39 Estimated AI Cost This Week
+💵 $0.57 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 64 AI Prompts
+🧠 7 AI Sessions, 27 AI Prompts
 
-Grok                     2,195 lines         ████████████████████████░   97.73 % 
-Github-Copilot           51 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Grok                     142 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.02% of written lines came from AI
-📚 Verbose Prompter — average 4,389 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 13.42% of changed lines were hand-edited
+⚖️ Balanced with AI — 37.0% of written lines came from AI
+📚 Verbose Prompter — average 4,707 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 68.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +143,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 02:05:02 UTC
+ Last Updated on 10/09/2026 02:00:40 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
