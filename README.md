@@ -67,27 +67,27 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 700.6 kB Used in GitHub's Storage 
+> 📦 701.3 kB Used in GitHub's Storage 
  > 
-> 🏆 925 Contributions in the Year 2026
+> 🏆 935 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                19310 commits       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-🌃 Evening                28267 commits       ███████████░░░░░░░░░░░░░░   44.19 % 
-🌙 Night                  9062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌞 Morning                7328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+🌆 Daytime                19311 commits       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌃 Evening                28274 commits       ███████████░░░░░░░░░░░░░░   44.20 % 
+🌙 Night                  9062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
 
@@ -97,37 +97,23 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Bash                     1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   38.92 % 
-YAML                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   37.86 % 
-Python                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+YAML                     1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   39.10 % 
+Bash                     1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   37.22 % 
+Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🐱‍💻 Projects: 
-udg-phd-thesis           1 hr 49 mins        ███████████████░░░░░░░░░░   61.44 % 
-fromfolio-backend-v2     43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-sqladmin                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-sqladmin-test            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+udg-phd-thesis           1 hr 43 mins        ███████████████░░░░░░░░░░   60.14 % 
+fromfolio-backend-v2     43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+sqladmin                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+puzzle-arena             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (3.47%)
-
-✍️ 0 lines written by AI, 175 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +129,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 01:58:53 UTC
+ Last Updated on 12/09/2026 02:07:23 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
