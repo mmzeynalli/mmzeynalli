@@ -63,11 +63,11 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -97,17 +97,18 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   39.10 % 
-Bash                     1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   37.22 % 
-Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+YAML                     51 mins             ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+Bash                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Python                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+TOML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 
 🐱‍💻 Projects: 
-udg-phd-thesis           1 hr 43 mins        ███████████████░░░░░░░░░░   60.14 % 
-fromfolio-backend-v2     43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-sqladmin                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-puzzle-arena             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+starlette-profiler       1 hr 24 mins        ███████████░░░░░░░░░░░░░░   44.92 % 
+udg-phd-thesis           41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+fromfolio-backend-v2     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+puzzle-arena             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+sqladmin                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,7 +130,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 02:07:23 UTC
+ Last Updated on 13/09/2026 01:58:26 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
