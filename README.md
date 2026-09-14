@@ -67,13 +67,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 701.3 kB Used in GitHub's Storage 
+> 📦 702.0 kB Used in GitHub's Storage 
  > 
-> 🏆 935 Contributions in the Year 2026
+> 🏆 940 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,9 +85,9 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ```text
 🌞 Morning                7328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                19311 commits       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-🌃 Evening                28274 commits       ███████████░░░░░░░░░░░░░░   44.20 % 
-🌙 Night                  9062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌆 Daytime                19311 commits       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌃 Evening                28278 commits       ███████████░░░░░░░░░░░░░░   44.20 % 
+🌙 Night                  9063 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 ```
 
 
@@ -97,18 +97,18 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     51 mins             ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Bash                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Python                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-TOML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+TOML                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+YAML                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Python                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🐱‍💻 Projects: 
-starlette-profiler       1 hr 24 mins        ███████████░░░░░░░░░░░░░░   44.92 % 
-udg-phd-thesis           41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-fromfolio-backend-v2     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-puzzle-arena             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-sqladmin                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+starlette-profiler       1 hr 24 mins        ████████████████████░░░░░   80.93 % 
+puzzle-arena             19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+fromfolio-backend-v2     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+sqladmin                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+udg-phd-thesis           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +130,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 01:58:26 UTC
+ Last Updated on 14/09/2026 02:15:23 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
