@@ -63,17 +63,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 702.0 kB Used in GitHub's Storage 
  > 
-> 🏆 942 Contributions in the Year 2026
+> 🏆 944 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,8 +86,8 @@ See more [here](https://mmzeynalli.dev/posts/)
 ```text
 🌞 Morning                7497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 🌆 Daytime                19767 commits       ████████░░░░░░░░░░░░░░░░░   30.13 % 
-🌃 Evening                29040 commits       ███████████░░░░░░░░░░░░░░   44.27 % 
-🌙 Night                  9294 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌃 Evening                29043 commits       ███████████░░░░░░░░░░░░░░   44.27 % 
+🌙 Night                  9301 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
 
 
@@ -97,24 +97,40 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TOML                     47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-Python                   44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-HTML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Python                   1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+TOML                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🐱‍💻 Projects: 
-starlette-profiler       1 hr 56 mins        ███████████████░░░░░░░░░░   60.70 % 
-fromfolio-backend-v2     46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-puzzle-arena             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-sqladmin                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-sqladmin-test            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+starlette-profiler       1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.37 % 
+fromfolio-backend-v2     1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+sqladmin                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+puzzle-arena             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+sqladmin-test            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 26 mins (9.55%)
+
+✍️ 0 lines written by AI, 2,492 lines written by hand (0.0% AI-written)
+
+🔤 18,275 Input Tokens, 55 Output Tokens
+
+💵 $0.06 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 4 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +146,7 @@ PDDL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 02:17:24 UTC
+ Last Updated on 17/09/2026 02:21:27 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
