@@ -63,17 +63,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 702.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,025 Contributions in the Year 2026
+> 🏆 1,030 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5430 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-🌆 Daytime                14100 commits       ████████░░░░░░░░░░░░░░░░░   31.21 % 
-🌃 Evening                19411 commits       ███████████░░░░░░░░░░░░░░   42.96 % 
-🌙 Night                  6238 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+🌞 Morning                6174 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+🌆 Daytime                16193 commits       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌃 Evening                22752 commits       ███████████░░░░░░░░░░░░░░   43.37 % 
+🌙 Night                  7336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
 
@@ -97,18 +97,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   58 mins             ██████████████░░░░░░░░░░░   56.12 % 
-Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   33 mins             ███████████░░░░░░░░░░░░░░   42.37 % 
+Bash                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     35 mins             █████████░░░░░░░░░░░░░░░░   34.67 % 
-integrify-python         28 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-sqladmin                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-fromfolio-frontend-v2    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-puzzle-arena             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+fromfolio-backend-v2     35 mins             ███████████░░░░░░░░░░░░░░   45.34 % 
+puzzle-arena             19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+sqladmin                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+fromfolio-frontend-v2    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +129,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 02:56:21 UTC
+ Last Updated on 01/10/2026 03:00:28 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
