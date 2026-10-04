@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2014%20mins-blue?style=flat)
 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6734 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌆 Daytime                17623 commits       ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌃 Evening                25107 commits       ███████████░░░░░░░░░░░░░░   43.62 % 
-🌙 Night                  8100 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+🌞 Morning                6794 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌆 Daytime                17773 commits       ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌃 Evening                25255 commits       ███████████░░░░░░░░░░░░░░   43.57 % 
+🌙 Night                  8147 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 ```
 
 
@@ -97,17 +97,18 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   33 mins             ███████████░░░░░░░░░░░░░░   42.37 % 
-Bash                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   30 mins             ██████████░░░░░░░░░░░░░░░   40.81 % 
+Bash                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     35 mins             ███████████░░░░░░░░░░░░░░   45.34 % 
-puzzle-arena             19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-sqladmin                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-fromfolio-frontend-v2    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+fromfolio-backend-v2     28 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
+puzzle-arena             19 mins             ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+sqladmin                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+fromfolio-frontend-v2    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+udg-phd-thesis           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,7 +130,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 02:52:20 UTC
+ Last Updated on 04/10/2026 03:23:45 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
