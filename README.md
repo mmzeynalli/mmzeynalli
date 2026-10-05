@@ -97,18 +97,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   30 mins             ██████████░░░░░░░░░░░░░░░   40.81 % 
-Bash                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash                     14 mins             █████████░░░░░░░░░░░░░░░░   36.53 % 
+Markdown                 12 mins             ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Python                   12 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     28 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
-puzzle-arena             19 mins             ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-sqladmin                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-fromfolio-frontend-v2    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-udg-phd-thesis           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+puzzle-arena             14 mins             █████████░░░░░░░░░░░░░░░░   36.53 % 
+sqladmin                 12 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
+fromfolio-backend-v2     8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+udg-phd-thesis           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +129,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 03:23:45 UTC
+ Last Updated on 05/10/2026 02:54:58 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
