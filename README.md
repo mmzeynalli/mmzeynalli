@@ -73,7 +73,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 702.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,032 Contributions in the Year 2026
+> 🏆 1,034 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6794 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌆 Daytime                17773 commits       ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌃 Evening                25255 commits       ███████████░░░░░░░░░░░░░░   43.57 % 
-🌙 Night                  8147 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌞 Morning                6965 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+🌆 Daytime                18238 commits       ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌃 Evening                26033 commits       ███████████░░░░░░░░░░░░░░   43.66 % 
+🌙 Night                  8385 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
 
@@ -97,17 +97,16 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Bash                     14 mins             █████████░░░░░░░░░░░░░░░░   36.53 % 
-Markdown                 12 mins             ████████░░░░░░░░░░░░░░░░░   31.61 % 
-Python                   12 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Python                   29 mins             ███████████████████░░░░░░   74.28 % 
+Bash                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-puzzle-arena             14 mins             █████████░░░░░░░░░░░░░░░░   36.53 % 
-sqladmin                 12 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
-fromfolio-backend-v2     8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-udg-phd-thesis           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+fromfolio-backend-v2     25 mins             ████████████████░░░░░░░░░   64.32 % 
+puzzle-arena             9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+udg-phd-thesis           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,7 +128,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 02:54:58 UTC
+ Last Updated on 06/10/2026 03:50:32 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
