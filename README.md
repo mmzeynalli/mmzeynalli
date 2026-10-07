@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2014%20mins-blue?style=flat)
 
@@ -97,16 +97,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   29 mins             ███████████████████░░░░░░   74.28 % 
-Bash                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   29 mins             █████████████████████████   98.53 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+PDDL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     25 mins             ████████████████░░░░░░░░░   64.32 % 
-puzzle-arena             9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-udg-phd-thesis           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+fromfolio-backend-v2     25 mins             █████████████████████░░░░   85.31 % 
+udg-phd-thesis           4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +127,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 03:50:32 UTC
+ Last Updated on 07/10/2026 03:14:01 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
