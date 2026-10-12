@@ -63,17 +63,17 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 702.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,045 Contributions in the Year 2026
+> 🏆 1,048 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,8 +85,8 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 ```text
 🌞 Morning                7271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-🌆 Daytime                19049 commits       ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌃 Evening                27164 commits       ███████████░░░░░░░░░░░░░░   43.65 % 
+🌆 Daytime                19051 commits       ████████░░░░░░░░░░░░░░░░░   30.61 % 
+🌃 Evening                27165 commits       ███████████░░░░░░░░░░░░░░   43.65 % 
 🌙 Night                  8746 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 ```
 
@@ -97,11 +97,13 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   20 mins             █████████████████████████   99.41 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python                   40 mins             ████████████████████████░   97.93 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     20 mins             █████████████████████████   100.00 % 
+fromfolio-backend-v2     40 mins             █████████████████████████   98.22 % 
+fromfolio-frontend-v2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,7 +125,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 02:48:11 UTC
+ Last Updated on 12/10/2026 03:13:33 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
