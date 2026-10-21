@@ -63,11 +63,11 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C139%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C139%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -97,16 +97,16 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   32 mins             ████████████░░░░░░░░░░░░░   49.66 % 
-SQL                      18 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Python                   41 mins             ██████████████░░░░░░░░░░░   54.98 % 
+SQL                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     1 hr 3 mins         █████████████████████████   98.98 % 
-med-talks                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-fromfolio-frontend-v2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+fromfolio-backend-v2     1 hr 14 mins        █████████████████████████   99.13 % 
+med-talks                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+fromfolio-frontend-v2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +128,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 02:40:20 UTC
+ Last Updated on 21/10/2026 02:31:21 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
