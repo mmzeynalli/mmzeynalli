@@ -63,11 +63,11 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C139%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -97,21 +97,41 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   38 mins             █████████████░░░░░░░░░░░░   53.79 % 
-SQL                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Python                   44 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+SQL                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     1 hr 12 mins        █████████████████████████   99.91 % 
-fromfolio-frontend-v2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+fromfolio-backend-v2     1 hr 17 mins        █████████████████░░░░░░░░   69.11 % 
+csdox                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+rwar-a4c0d577            8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+literate-pancake-5d34d28e1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 34 mins (30.76%)
+
+✍️ 0 lines written by AI, 61 lines written by hand (0.0% AI-written)
+
+🔤 90,545 Input Tokens, 1,041 Output Tokens
+
+💵 $0.13 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 5 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 411 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +147,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 02:25:01 UTC
+ Last Updated on 23/10/2026 02:33:25 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
