@@ -63,9 +63,9 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7956 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-🌆 Daytime                20918 commits       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌃 Evening                30313 commits       ███████████░░░░░░░░░░░░░░   44.00 % 
-🌙 Night                  9706 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+🌞 Morning                8127 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+🌆 Daytime                21384 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌃 Evening                31097 commits       ███████████░░░░░░░░░░░░░░   44.08 % 
+🌙 Night                  9945 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 ```
 
 
@@ -97,41 +97,41 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   44 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
-Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-SQL                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Other                    1 hr 46 mins        ████████████░░░░░░░░░░░░░   47.80 % 
+Python                   51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+SQL                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     1 hr 17 mins        █████████████████░░░░░░░░   69.11 % 
-csdox                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-rwar-a4c0d577            8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-literate-pancake-5d34d28e1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+fromfolio-backend-v2     1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.77 % 
+super                    55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+literate-pancake-5d34d28e30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+csdox                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+rwar-a4c0d577            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (30.76%)
+⏱ AI Coding Time: 2 hrs 25 mins (65.16%)
 
-✍️ 0 lines written by AI, 61 lines written by hand (0.0% AI-written)
+✍️ 188 lines written by AI, 61 lines written by hand (75.5% AI-written)
 
-🔤 90,545 Input Tokens, 1,041 Output Tokens
+🔤 432,759 Input Tokens, 23,117 Output Tokens
 
-💵 $0.13 Estimated AI Cost This Week
+💵 $0.92 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 5 AI Prompts
+🧠 15 AI Sessions, 21 AI Prompts
 
+Github-Copilot           188 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 411 characters per prompt
+🤖 AI-Driven — 75.5% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 36.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -147,7 +147,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 02:33:25 UTC
+ Last Updated on 24/10/2026 02:31:11 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
