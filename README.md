@@ -63,7 +63,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2039%20mins-blue?style=flat)
 
@@ -73,7 +73,7 @@ See more [here](https://mmzeynalli.dev/posts/)
 
 > 📦 703.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,089 Contributions in the Year 2026
+> 🏆 1,105 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-🌆 Daytime                19992 commits       ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌃 Evening                28928 commits       ███████████░░░░░░░░░░░░░░   43.98 % 
-🌙 Night                  9234 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+🌞 Morning                8201 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌆 Daytime                21531 commits       ████████░░░░░░░░░░░░░░░░░   30.37 % 
+🌃 Evening                31238 commits       ███████████░░░░░░░░░░░░░░   44.06 % 
+🌙 Night                  9924 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
 
 
@@ -97,26 +97,26 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    1 hr 46 mins        ████████████░░░░░░░░░░░░░   48.31 % 
-Python                   49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-SQL                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Other                    1 hr 46 mins        █████████████░░░░░░░░░░░░   51.76 % 
+Python                   39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   34.08 % 
-super                    55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-literate-pancake-5d34d28e30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-csdox                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-rwar-a4c0d577            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+super                    55 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+fromfolio-backend-v2     49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+literate-pancake-5d34d28e30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+csdox                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+fromfolio-frontend-v2    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 25 mins (65.85%)
+⏱ AI Coding Time: 2 hrs 25 mins (70.56%)
 
-✍️ 188 lines written by AI, 63 lines written by hand (74.9% AI-written)
+✍️ 188 lines written by AI, 8 lines written by hand (95.92% AI-written)
 
 🔤 432,759 Input Tokens, 23,117 Output Tokens
 
@@ -128,10 +128,10 @@ Github-Copilot           188 lines           ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.9% of written lines came from AI
+🤖 AI-Driven — 95.92% of written lines came from AI
 📝 Concise Prompter — average 329 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 37.33% of changed lines were hand-edited
+🚀 High AI Trust — 12.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -147,7 +147,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 02:18:39 UTC
+ Last Updated on 27/10/2026 02:58:31 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
