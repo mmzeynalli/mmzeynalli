@@ -63,15 +63,15 @@ See more [here](https://mmzeynalli.dev/posts/)
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 703.1 kB Used in GitHub's Storage 
+> 📦 703.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,109 Contributions in the Year 2026
  > 
@@ -97,42 +97,41 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    1 hr 55 mins        ████████████████░░░░░░░░░   64.04 % 
-Python                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-TOML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Python                   24 mins             ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Other                    18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+TOML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-super                    55 mins             ████████░░░░░░░░░░░░░░░░░   30.87 % 
-fromfolio-backend-v2     37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-literate-pancake-5d34d28e29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-csdox                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-fromfolio-frontend-v2    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+fromfolio-backend-v2     43 mins             ███████████████░░░░░░░░░░   59.21 % 
+fromfolio-frontend-v2    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+csdox                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+mzeynall                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (73.11%)
+⏱ AI Coding Time: 18 mins (25.51%)
 
-✍️ 188 lines written by AI, 10 lines written by hand (94.95% AI-written)
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
 
-🔤 502,576 Input Tokens, 23,164 Output Tokens
+🔤 160,362 Input Tokens, 1,088 Output Tokens
 
-💵 $1.01 Estimated AI Cost This Week
+💵 $0.77 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 25 AI Prompts
+🧠 7 AI Sessions, 9 AI Prompts
 
-Github-Copilot           188 lines           █████████████████████████   100.00 % 
+Github-Copilot           4 lines             █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.95% of written lines came from AI
-📄 Detailed Prompter — average 837 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.36% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 1,787 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -148,7 +147,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 03:30:30 UTC
+ Last Updated on 31/10/2026 03:14:12 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
