@@ -84,10 +84,10 @@ See more [here](https://mmzeynalli.dev/posts/)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8382 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-🌆 Daytime                22007 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-🌃 Evening                32055 commits       ███████████░░░░░░░░░░░░░░   44.15 % 
-🌙 Night                  10168 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+🌞 Morning                8553 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌆 Daytime                22473 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌃 Evening                32859 commits       ███████████░░░░░░░░░░░░░░   44.23 % 
+🌙 Night                  10408 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
 
@@ -97,41 +97,40 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   24 mins             ████████░░░░░░░░░░░░░░░░░   33.67 % 
-Other                    18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-TOML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Python                   26 mins             ████████░░░░░░░░░░░░░░░░░   32.15 % 
+Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   31.94 % 
+TOML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
-fromfolio-backend-v2     43 mins             ███████████████░░░░░░░░░░   59.21 % 
-fromfolio-frontend-v2    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-csdox                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-mzeynall                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+fromfolio-backend-v2     43 mins             █████████████░░░░░░░░░░░░   52.08 % 
+mzeynall                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+fromfolio-frontend-v2    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+csdox                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (25.51%)
+⏱ AI Coding Time: 28 mins (34.47%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 61 lines written by AI, 10 lines written by hand (85.92% AI-written)
 
-🔤 160,362 Input Tokens, 1,088 Output Tokens
+🔤 557,713 Input Tokens, 5,343 Output Tokens
 
-💵 $0.77 Estimated AI Cost This Week
+💵 $1.22 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 9 AI Prompts
+🧠 9 AI Sessions, 14 AI Prompts
 
-Github-Copilot           4 lines             █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      61 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,787 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 85.92% of written lines came from AI
+📄 Detailed Prompter — average 1,385 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 32.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -147,7 +146,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:14:12 UTC
+ Last Updated on 01/11/2026 03:10:44 UTC
 <!--END_SECTION:waka-->
 
 <summary><b> Github Stats</b></summary>
