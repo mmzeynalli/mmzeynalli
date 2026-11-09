@@ -3,9 +3,19 @@
 
 ```yaml
 experience:
+    Volvo:
+        Period: Dec 2025 - Current
+        Location: Lund, Sweden
+        Position: Consultant, Embedded Engineer
+    Axis Communications AB:
+        Period: Oct 2024 - Apr 2025
+        Location: Lund, Sweden
+        Department: New Business
+        Position: Consultant, Embedded Firmware Engineer
     Axis Communcations AB:
         Period: Mar 2023 - May 2024
         Location: Lund, Sweden
+        Department: R&D
         Position: Part-Time, SoC Platform Security Engineer
     Starex:
         Period: Jun 2021 - Aug 2022
@@ -28,54 +38,56 @@ technologies:
     devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"]
     databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "Redis", "RabbitMQ"]
     misc: ["Asyncio", "REST", "WebSockets"]
-architecture: 
+architecture:
     backend: ["microservices", "monolithic"]
     databases: ["Relational", "NoSQL", "In-memory"]
-
 funfact: "I was a world chess champion once!"
 ```
 
 ## My last 5 blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6254: Timebomb](https://mmzeynalli.dev/posts/dsa/eolymp/6254/)
-- [Winning Lottery Ticket](https://mmzeynalli.dev/posts/dsa/hackerrank/winning-lottery-ticket/)
-- [142: Linked List Cycle II](https://mmzeynalli.dev/posts/dsa/leetcode/142/)
-- [Contest 1918, Problem A](https://mmzeynalli.dev/posts/dsa/codeforces/1918-a/)
-- [Balanced Brackets](https://mmzeynalli.dev/posts/dsa/hackerrank/balanced-brackets/)
+- [No. 1 Communication Expert: This Speaking Mistake Makes People Dislike You!](https://mmzeynalli.dev/posts/podcast-notes/the-diary-of-a-ceo/vinh-giang-communication-expert/)
+- [Integrify](https://mmzeynalli.dev/posts/open-sources/integrify/)
+- [Eolymp 6254: Timebomb](https://mmzeynalli.dev/posts/dsa/eolymp/6254/)
+- [Hackerrank: Winning Lottery Ticket](https://mmzeynalli.dev/posts/dsa/hackerrank/winning-lottery-ticket/)
+- [Leetcode 142: Linked List Cycle II](https://mmzeynalli.dev/posts/dsa/leetcode/142/)
 <!-- BLOG-POST-LIST:END -->
 
 See more [here](https://mmzeynalli.dev/posts/)
 
 ## Dev Stats
 
-<details>
-  <summary><b>⚡ Coding Stats</b></summary>
+<summary><b>⚡ Coding Stats</b></summary>
+
+</br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2058%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 688.9 kB Used in GitHub's Storage 
+> 📦 703.2 kB Used in GitHub's Storage 
  > 
-> 🏆 316 Contributions in the Year 2024
+> 🏆 1,109 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 30 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-🌆 Daytime                631 commits         █████████░░░░░░░░░░░░░░░░   34.80 % 
-🌃 Evening                665 commits         █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌙 Night                  248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌞 Morning                8553 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌆 Daytime                22473 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌃 Evening                32859 commits       ███████████░░░░░░░░░░░░░░   44.23 % 
+🌙 Night                  10408 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
 
@@ -85,46 +97,62 @@ See more [here](https://mmzeynalli.dev/posts/)
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.49 % 
-Markdown                 3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-YAML                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Docker                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Python                   26 mins             ████████░░░░░░░░░░░░░░░░░   32.15 % 
+Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   31.94 % 
+TOML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
-chess-rating-chart       7 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.88 % 
-mmzeynalli               4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-website                  2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-fromfolio-backend-v2     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-integrify                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+fromfolio-backend-v2     43 mins             █████████████░░░░░░░░░░░░   52.08 % 
+mzeynall                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+fromfolio-frontend-v2    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+csdox                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 mins (34.47%)
+
+✍️ 61 lines written by AI, 10 lines written by hand (85.92% AI-written)
+
+🔤 557,713 Input Tokens, 5,343 Output Tokens
+
+💵 $1.22 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 14 AI Prompts
+
+GPT                      61 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 85.92% of written lines came from AI
+📄 Detailed Prompter — average 1,385 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 32.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ██████████████░░░░░░░░░░░   54.17 % 
-C                        7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python                   36 repos            ████████████░░░░░░░░░░░░░   49.32 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+PDDL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
 
 
- Last Updated on 09/10/2024 00:42:04 UTC
+ Last Updated on 01/11/2026 03:10:44 UTC
 <!--END_SECTION:waka-->
-</details>
 
+<summary><b> Github Stats</b></summary>
 
-<details>
-  <summary><b> Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmzeynalli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmzeynalli&exclude_repo=STM32-Projects,Qistkit-Summer-School-2020&show_icons=true&hide_border=true&layout=compact&theme=dark&langs_count=6"/>
-</details>
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## Miradil's Chess Game
 
@@ -133,36 +161,36 @@ Play a chess game with me!
 ### **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave: 
 
 <!-- BEGIN CHESS BOARD -->
-|       |                   A                    |                   B                    |                   C                    |                   D                    |                   E                    |                   F                    |                   G                    |                   H                    |       |
-| ----- | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :---: |
-| **8** | <img src="img/black/r.png" width=50px> | <img src="img/black/n.png" width=50px> | <img src="img/black/b.png" width=50px> | <img src="img/black/q.png" width=50px> | <img src="img/black/k.png" width=50px> |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | <img src="img/black/r.png" width=50px> | **8** |
-| **7** |  <img src="img/blank.png" width=50px>  | <img src="img/black/p.png" width=50px> | <img src="img/black/p.png" width=50px> |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | <img src="img/black/p.png" width=50px> | <img src="img/black/p.png" width=50px> | <img src="img/black/p.png" width=50px> | **7** |
-| **6** | <img src="img/black/p.png" width=50px> |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | <img src="img/black/p.png" width=50px> |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | **6** |
-| **5** |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | <img src="img/black/n.png" width=50px> |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | **5** |
-| **4** | <img src="img/white/p.png" width=50px> | <img src="img/black/b.png" width=50px> | <img src="img/black/p.png" width=50px> | <img src="img/white/p.png" width=50px> |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | **4** |
-| **3** |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | <img src="img/white/n.png" width=50px> | <img src="img/white/p.png" width=50px> |  <img src="img/blank.png" width=50px>  | **3** |
-| **2** |  <img src="img/blank.png" width=50px>  | <img src="img/white/p.png" width=50px> |  <img src="img/blank.png" width=50px>  |  <img src="img/blank.png" width=50px>  | <img src="img/white/p.png" width=50px> | <img src="img/white/p.png" width=50px> | <img src="img/white/b.png" width=50px> | <img src="img/white/p.png" width=50px> | **2** |
-| **1** | <img src="img/white/r.png" width=50px> | <img src="img/white/n.png" width=50px> | <img src="img/white/b.png" width=50px> | <img src="img/white/q.png" width=50px> |  <img src="img/blank.png" width=50px>  | <img src="img/white/r.png" width=50px> | <img src="img/white/k.png" width=50px> |  <img src="img/blank.png" width=50px>  | **1** |
-|       |                 **A**                  |                 **B**                  |                 **C**                  |                 **D**                  |                 **E**                  |                 **F**                  |                 **G**                  |                 **H**                  |       |
+|   | H | G | F | E | D | C | B | A |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **1** | <img src="./img/blank.png" width=50px> | <img src="./img/white/k.png" width=50px> | <img src="./img/white/r.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/white/b.png" width=50px> | <img src="./img/white/n.png" width=50px> | <img src="./img/white/r.png" width=50px> | **1** |
+| **2** | <img src="./img/white/p.png" width=50px> | <img src="./img/white/b.png" width=50px> | <img src="./img/white/p.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/white/p.png" width=50px> | <img src="./img/blank.png" width=50px> | **2** |
+| **3** | <img src="./img/blank.png" width=50px> | <img src="./img/white/p.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | **3** |
+| **4** | <img src="./img/blank.png" width=50px> | <img src="./img/white/q.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/white/p.png" width=50px> | <img src="./img/black/p.png" width=50px> | <img src="./img/black/b.png" width=50px> | <img src="./img/white/p.png" width=50px> | **4** |
+| **5** | <img src="./img/blank.png" width=50px> | <img src="./img/black/p.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | **5** |
+| **6** | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/black/q.png" width=50px> | <img src="./img/black/p.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/black/p.png" width=50px> | **6** |
+| **7** | <img src="./img/blank.png" width=50px> | <img src="./img/black/p.png" width=50px> | <img src="./img/black/p.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/black/p.png" width=50px> | <img src="./img/black/p.png" width=50px> | <img src="./img/blank.png" width=50px> | **7** |
+| **8** | <img src="./img/black/r.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/black/k.png" width=50px> | <img src="./img/blank.png" width=50px> | <img src="./img/black/b.png" width=50px> | <img src="./img/black/n.png" width=50px> | <img src="./img/black/r.png" width=50px> | **8** |
+|   | **H** | **G** | **F** | **E** | **D** | **C** | **B** | **A** |   |
 <!-- END CHESS BOARD -->
 
-### It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece!
+### It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece!
 <!-- BEGIN MOVES LIST -->
-|  FROM  | TO (Just click a link!)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A1** | [A2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A1+to+A2), [A3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A1+to+A3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **A4** | [A5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A4+to+A5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **B1** | [A3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+A3), [C3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+C3), [D2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+D2)                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **B2** | [B3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B2+to+B3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **C1** | [D2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C1+to+D2), [E3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C1+to+E3), [F4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C1+to+F4), [G5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C1+to+G5), [H6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C1+to+H6) |
-| **D1** | [B3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D1+to+B3), [C2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D1+to+C2), [D2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D1+to+D2), [D3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D1+to+D3), [E1](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D1+to+E1) |
-| **E2** | [E3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E2+to+E3), [E4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E2+to+E4)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **F1** | [E1](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F1+to+E1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **F3** | [D2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F3+to+D2), [E1](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F3+to+E1), [E5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F3+to+E5), [G5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F3+to+G5), [H4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F3+to+H4) |
-| **G1** | [H1](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+H1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **G2** | [H1](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+H1), [H3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+H3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **G3** | [G4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G3+to+G4)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **H2** | [H3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|  FROM  | TO (Just click a link!) |
+| :----: | :---------------------- |
+| **A6** | [A5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A6+to+A5) |
+| **A8** | [A7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A8+to+A7) |
+| **B4** | [A3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+A3), [A5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+A5), [C3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+C3), [C5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+C5), [D2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+D2), [D6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+D6), [E1](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+E1), [E7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+E7), [F8](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B4+to+F8) |
+| **B7** | [B5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B5), [B6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B6) |
+| **B8** | [C6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+C6), [D7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+D7) |
+| **C4** | [C3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C4+to+C3) |
+| **C7** | [C5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C5), [C6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C6) |
+| **C8** | [D7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C8+to+D7) |
+| **E6** | [E5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E6+to+E5) |
+| **E8** | [D7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E8+to+D7), [D8](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E8+to+D8), [E7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E8+to+E7), [F8](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E8+to+F8), [G8](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E8+to+G8) |
+| **F6** | [D4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+D4), [D8](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+D8), [E5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+E5), [E7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+E7), [F2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+F2), [F3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+F3), [F4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+F4), [F5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+F5), [G6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+G6), [H6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F6+to+H6) |
+| **G7** | [G6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G7+to+G6) |
+| **H8** | [F8](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+F8), [G8](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+G8), [H2](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+H2), [H3](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+H3), [H4](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+H4), [H5](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+H5), [H6](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+H6), [H7](https://github.com/mmzeynalli/mmzeynalli/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H8+to+H7) |
 <!-- END MOVES LIST -->
 
 ### How this works
@@ -173,10 +201,13 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
   <summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
 
-|     Move     | Author                                        |
-| :----------: | :-------------------------------------------- |
-| `F8` to `B4` | [ @mmzeynalli](https://github.com/mmzeynalli) |
-| `Start game` | [ @marcizhu](https://github.com/marcizhu)     |
+| Move | Author |
+| :--: | :----- |
+| `D1` to `G4` | [ @moneebullah25](https://github.com/moneebullah25) |
+| `D8` to `F6` | [ @igoose1](https://github.com/igoose1) |
+| `E5` to `F6` | [ @BorgRancher](https://github.com/BorgRancher) |
+| `H6` to `G5` | [ @smac89](https://github.com/smac89) |
+| `E4` to `E5` | [ @aryan3939](https://github.com/aryan3939) |
 
 <!-- END LAST MOVES -->
 </details>
@@ -185,28 +216,28 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 Lichess rating chart for the last 80 games:
 
 ```ascii
- 2631.00  ┤                                                               ╭╮
- 2627.90  ┤                                                             ╭╮││
- 2624.81  ┤                                                            ╭╯╰╯╰╮        ╭╮
- 2621.71  ┤                                                          ╭╮│    │        ││
- 2618.62  ┤                                                          │╰╯    ╰╮      ╭╯╰╮ ╭╮╭╮            ╭╮
- 2615.52  ┤                                                         ╭╯       ╰╮     │  ╰╮││││            ││
- 2612.43  ┤                                                         │         ╰╮    │   ││╰╯│     ╭╮     │╰╮ ╭
- 2609.33  ┤                                                        ╭╯          │   ╭╯   ╰╯  ╰╮╭╮  │╰╮   ╭╯ ╰╮│
- 2606.24  ┤                                                       ╭╯           ╰╮  │         ╰╯╰╮╭╯ ╰╮╭─╯   ╰╯
- 2603.14  ┤                                                       │             ╰╮╭╯            ╰╯   ││
- 2600.05  ┤                                                      ╭╯              ││                  ╰╯
- 2596.95  ┤                                     ╭╮               │               ╰╯
- 2593.86  ┤                                     │╰╮             ╭╯
- 2590.76  ┤            ╭╮                      ╭╯ ╰╮            │
- 2587.67  ┼╮           │╰╮                 ╭╮  │   │           ╭╯
- 2584.57  ┤╰╮╭╮╭╮      │ │               ╭╮│╰╮ │   │ ╭╮        │
- 2581.48  ┤ ││╰╯╰╮  ╭╮╭╯ ╰╮╭╮╭─╮       ╭╮│╰╯ ╰─╯   ╰╮│╰╮ ╭╮   ╭╯
- 2578.38  ┤ ╰╯   │  │││   ╰╯╰╯ │       │╰╯          ╰╯ ╰╮││ ╭╮│
- 2575.29  ┤      ╰╮╭╯╰╯        ╰╮╭╮   ╭╯                ││╰╮│╰╯
- 2572.19  ┤       ╰╯            ││╰╮╭╮│                 ╰╯ ╰╯
- 2569.10  ┤                     ╰╯ ╰╯╰╯
- 2566.00  ┤
+2758 ┼╮
+2753 ┤╰╮
+2747 ┤ ╰─╮╭╮                                           ╭╮
+2742 ┤   ╰╯╰─╮                                        ╭╯╰╮
+2736 ┤       │                                     ╭─╮│  ╰╮
+2731 ┤       ╰─╮                                  ╭╯ ╰╯   │
+2725 ┤         ╰─╮                                │       ╰─╮
+2720 ┤           ╰╮                              ╭╯         ╰╮
+2714 ┤            ╰╮                        ╭╮  ╭╯           ╰──╮
+2709 ┤             ╰╮  ╭╮               ╭╮╭─╯╰╮╭╯               ╰╮
+2703 ┤              ╰╮╭╯│               │╰╯   ╰╯                 ╰╮
+2698 ┤               ╰╯ ╰─╮        ╭╮╭╮╭╯                         ╰─╮  ╭╮
+2692 ┤                    ╰╮      ╭╯╰╯╰╯                            ╰╮╭╯╰╮
+2687 ┤                     ╰──╮  ╭╯                                  ╰╯  ╰╮
+2681 ┤                        ╰──╯                                        ╰╮
+2676 ┤                                                                     ╰╮                          ╭─
+2670 ┤                                                                      ╰╮╭╮                      ╭╯
+2665 ┤                                                                       ╰╯╰╮  ╭╮                ╭╯
+2659 ┤                                                                          ╰╮ │╰──╮╭─╮         ╭╯
+2654 ┤                                                                           │╭╯   ╰╯ ╰╮ ╭──╮╭╮╭╯
+2648 ┤                                                                           ╰╯        ╰─╯  ╰╯╰╯
+2643 ┤
 ```
 <!-- END_RATING_GRAPH:lichess -->
 
