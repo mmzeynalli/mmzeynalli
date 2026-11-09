@@ -18,5 +18,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LICHESS_USERNAME: mmzeynalli
+          LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }}
           LICHESS_TIME_CLASS: bullet
           LAST_N_GAMES: 80
